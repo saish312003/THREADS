@@ -20,7 +20,7 @@
     <div class="container-fluid p-0">
         <!--first chile mini-->
         <nav class="navbar navbar-expand-lg navbar-light bg-info">
-  <a class="navbar-brand" href="#">logo</a>
+ <img src="./images/logo.jpeg" alt="" class="logo">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -82,40 +82,146 @@
         <!--THRID CHILD-->
         <div class="bg-light">
             <h3 class="text-center">THREADS</h3>
-            <p class="text-center">user text</p>
+            <p class="text-center">YOUR BEAUTY IN YOUR FINGER</p>
         </div>
 
         <!--forth child-->
         <div class="row">
-            <div class="col-md-10">
+            <div class="col-md-12">
                 <!--products-->
                 <div class="row">
-                    <div class="col-md-4"><div class="card">
-  <img src="./images/logo.png" class="card-img-top" alt="...">
+                    <div class="col-md-3  mb-2   "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top"  >
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+    <a href="#" class="btn btn-secondary">View</a>
   </div>
 </div></div>
-                    <div class="col-md-4"><div class="card" >
-  <img src="./images/logo.png" class="card-img-top" alt="...">
+                    <div class="col-md-3 mb-2 "><div class="card" >
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
   </div>
 </div></div>
-                    <div class="col-md-4"><div class="card">
-  <img src="./images/logo.png" class="card-img-top" alt="...">
+<div class="col-md-3 mb-2 "><div class="card" >
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+                    <div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+
+
+
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+
+<div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
   </div>
 </div></div>
                 </div>
+                <div class="col-md-3 mb-2 "><div class="card">
+  <img src="./images/logo.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add To Cart</a>
+    <a href="#" class="btn btn-secondary">View</a>
+  </div>
+</div></div>
+
+
+
             </div>
+            
+            
         </div>
 
         <!--last child -->
