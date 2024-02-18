@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+.logo{
+   width:50px;
+   height:50px;
+}
+
+/* Style for dropdown button */
+.dropdown .btn-secondary {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+/* Style for dropdown menu */
+.dropdown-menu {
+    background-color: #f8f9fa;
+    border-color: #ced4da;
+}
+
+/* Style for dropdown items */
+.dropdown-item {
+    color: #212529;
+}
+
+/* Style for active dropdown item */
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+
+
+.card-img-top {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+}
+
